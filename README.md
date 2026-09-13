@@ -44,9 +44,9 @@ python-practice/
 ├── day_06_sets.ipynb
 ├── day_07_dictionaries.ipynb
 ├── day_08_functions.ipynb
-├── day_9_oops-1.ipynb
+├── day_09_oops-1.ipynb
 ├── day_10_oops-2.ipynb
-├── ...
+├── day_11_oops-2.ipynb
 │
 └── README.md
 ```
