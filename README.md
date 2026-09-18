@@ -1,4 +1,4 @@
-# Python Practice 🐍
+# Python Practice
 
 This repository contained my Python practice exercises and learning notebooks. It covered Python fundamentals, data structures, control flow, functions, OOP, decorators, file handling, exception handling, and other core Python concepts.
 
