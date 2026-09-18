@@ -50,6 +50,9 @@ python-practice/
 ├── day_12_oops_problems_1.ipynb
 ├── day_13_oops_problems_2.ipynb
 ├── day_14_file_handling.ipynb
+├── day_15_exception_handling.ipynb
+├── day_16_namespaces_decorators.ipynb
+├── day_17_Iterators_and_generators.ipynb
 │
 └── README.md
 ```
